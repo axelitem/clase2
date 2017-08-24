@@ -30,3 +30,6 @@ rela_factura
 
 select ayn from clientes as c join personas as p on c.rela_personas 
 =p.id_personas where clientes_estado = 'alta' and personasfec_nac= '2000-01-31';  
+
+
+ANDRES SE LA COME
